@@ -1,5 +1,7 @@
 # Mao
-个人简历快速部署
+
+![](https://github.com/dxiaoqi/Mao/blob/master/mao.png)
+
 
   Mao是一款个人简历快速部署工具，采用json配置的方法，可以快速将HTML模版页进行数据填充与模块伸展，这将意味你只需要简短的HTML代码与布局方式，就可以快速   获取到精美的个人简历。
   
