@@ -1,0 +1,19 @@
+{
+	"title":"Mao的个人简历",
+	"author":"Mao",
+	"plug":["parse","markden"],
+	"description":"快速部署生成个人简历",
+	"author":"丁维涛(丁小柒)",
+	
+
+	"fs":{
+		"module":"\\module",
+		"view":"\\view",
+		"them":"\\view\\them",
+		"css":"\\view\\css",
+		"icon":"\\view\\icon"
+	},
+	"page":"index.html",		
+	"temp":"\\index.html"
+
+}
